@@ -1,2 +1,2 @@
-peint ('hello world')
+print ('hello world')
 
